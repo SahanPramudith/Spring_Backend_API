@@ -7,7 +7,7 @@ public class StudentService {
        Student student=new Student();
        student.setEmail("sahan@");
        student.setName("sahan");
-       student.setContacNumber("0741600386");
+       student.setContacNumber("0781600386");
 
        return student;
    }
